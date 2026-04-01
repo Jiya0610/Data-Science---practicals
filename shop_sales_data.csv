@@ -1,0 +1,13 @@
+Month,Product,Category,Quantity_Sold,Unit_Price,Total_Sales
+Jan,Rice,Grocery,120,50,6000
+Feb,Rice,Grocery,90,50,4500
+Mar,Sugar,Grocery,110,45,4950
+Apr,Chips,Snacks,160,20,3200
+May,Biscuits,Snacks,150,25,3750
+Jun,Shampoo,Personal Care,75,90,6750
+Jul,Soap,Personal Care,200,40,8000
+Aug,Rice,Grocery,130,50,6500
+Sep,Sugar,Grocery,100,45,4500
+Oct,Chips,Snacks,250,20,5000
+Nov,Biscuits,Snacks,300,25,7500
+Dec,Soap,Personal Care,350,40,14000
